@@ -1,7 +1,68 @@
 <!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-  </body>
-</html>
+	<html lang="en"> <!-- Opens html -->
+		<head> <!-- Opens head -->
+			<link rel="stylesheet" type="text/css" href="css/style.css" />
+			<meta charset="utf-8" />
+			<meta name="description" content="Databas över kurslitteratur som används vid Uppsala Universitet" />
+			<meta name="keywords" content="Kurslitteratur, databas, rankining" />
+			<title> Studentlitteraturdatabasen </title>
+		</head> <!-- Ends head -->
+
+		<body>
+			<header> <!-- Opens header -->
+				<nav> <!-- Opens nav, main menu --> 
+					<h1>Välkommen till vår fina sida </h1>
+					<ul> <!-- Opens ul -->
+						<li><a href="#">Menu option 1</a></li>
+						<li><a href="#">Menu option 2</a></li>
+						<li><a href="#">Menu option 3</a></li>
+						<li><a href="#">Menu option 4</a></li>
+					</ul> <!-- Ends ul -->	
+				</nav> <!-- Closes nav, main menu -->
+			</header> <!-- Ends header -->
+
+			<main> <!-- Opens main -->
+				<section> <!-- Opens section 1 -->
+					<article> <!-- Opens article, section 1 -->
+						<header> <!-- Opens header, section 1 -->
+							<h1>Det här är sektion 1</h1>
+						</header> <!-- Closes header, section 1 -->
+
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus, tellus eget fermentum sodales, enim dui porttitor elit, ut finibus metus mauris gravida nunc. Pellentesque quis orci scelerisque, eleifend nibh ac, accumsan nulla. Nulla facilisi. Sed sollicitudin metus neque, vitae efficitur augue tempor ac. Donec a fermentum ipsum, nec scelerisque magna. Integer in orci velit. Proin dignissim non orci et porttitor. Maecenas viverra, leo id condimentum egestas, eros velit posuere odio, eu lacinia sapien eros ut nunc. Donec eget nisl a urna rutrum posuere ut a leo. Praesent euismod nunc lorem, at ultricies risus consequat ut. Proin venenatis, felis in venenatis maximus, odio leo ullamcorper neque, id tristique sem elit non mi. Vestibulum eget vulputate felis. Fusce laoreet facilisis quam, in accumsan turpis venenatis auctor. Vivamus urna arcu, ullamcorper id diam ut, faucibus lacinia massa. Sed in cursus magna. Sed velit tellus, scelerisque in accumsan eget, aliquam at mi. 
+						</p>
+					</article> <!-- Closes article, section 1 -->
+				</section> <!-- Ends section 1 -->
+
+				<section> <!-- Opens section 2 -->
+					<article> <!-- Opens article, section 2 -->
+						<header> <!-- Opens header, section 2 -->
+							<h1>Det här är sektion 2</h1>
+						</header> <!-- Closes header, section 2 -->
+
+						<p>
+							Pellentesque aliquet lorem ac odio mollis, vitae lobortis est pretium. Proin id est nec turpis ultricies mollis. Ut scelerisque lacus id scelerisque posuere. Quisque vestibulum consequat sapien quis vulputate. Aliquam nulla ex, vestibulum non sagittis nec, porta at nunc. Phasellus elit augue, vulputate quis orci vitae, volutpat tristique lacus. Morbi eu maximus nisi. Sed mattis vel mi ut feugiat. Sed egestas, purus vitae dictum commodo, metus ante placerat arcu, sed semper leo elit a arcu. Nulla nunc mi, hendrerit nec urna nec, tincidunt dignissim sapien. Maecenas volutpat mi non risus lacinia mollis.
+						</p>
+					</article> <!-- Closes article, section 2 -->
+				</section> <!-- Ends section 2 -->
+
+				<section> <!-- Opens section 3 -->
+					<article> <!-- Opens article, section 3 -->
+						<header> <!-- Opens header, section 3 -->
+							<h1>Det här är sektion 3</h1>
+						</header> <!-- Closes header, section 3 -->
+					</article> <!-- Closes article, section 3 -->
+
+					<p>
+						Pellentesque et dui vel ante gravida fringilla nec in mauris. Ut eu ex at justo vestibulum cursus a id dui. Vivamus at tortor metus. Pellentesque gravida, ante id feugiat porttitor, leo leo egestas sapien, non vestibulum urna nisi eu leo. Cras consequat turpis ac lectus posuere, vitae pharetra nisl pharetra. Donec eget ipsum elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam tellus nisl, euismod id eros feugiat, facilisis commodo sem. Quisque in blandit nibh. Donec fermentum leo vel nunc vehicula porttitor. Quisque quis sodales libero. Vivamus pharetra eleifend magna, nec fermentum urna rhoncus et. Ut in metus lacus.
+					</p>
+				</section> <!-- Ends section 3 -->
+			</main> <!-- Ends main -->
+
+			<footer> <!-- Opens footer -->
+			</footer> <!-- Ends footer -->
+
+		</body>
+
+
+	</html> <!-- Ends html -->
